@@ -1,0 +1,14 @@
+{
+  "generator-ui5-app": {
+    "namespace": "com.vysk",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.116.0",
+    "author": "thevysk",
+    "initrepo": true,
+    "appId": "com.vysk",
+    "appURI": "com/vysk",
+    "cdnDomain": "ui5.sap.com",
+    "defaultTheme": "sap_horizon",
+    "setupCompleted": true
+  }
+}
