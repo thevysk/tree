@@ -1,4 +1,4 @@
-# UI5 Application com.vysk
+# UI5 Application com.vysk.tree
 
 Insert the purpose of this project and some interesting info here...
 

@@ -1,0 +1,14 @@
+{
+    "source": {
+        "include": ["webapp"],
+        "includePattern": ".+\\.js(doc)?$",
+        "excludePattern": "(node_modules/|docs/)"
+    },
+    "plugins": [],
+    "templates": {
+        "path": "node_modules/ink-docstrap/template"
+    },
+    "opts": {
+        "destination": "docs/"
+    }
+}

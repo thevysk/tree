@@ -7,7 +7,7 @@ sap.ui.define(["sap/ui/test/opaQunit", "./pages/Main"], function () {
 		// Arrangements
 		Given.iStartMyUIComponent({
 			componentConfig: {
-				name: "com.vysk"
+				name: "com.vysk.tree"
 			}
 		});
 
@@ -31,7 +31,7 @@ sap.ui.define(["sap/ui/test/opaQunit", "./pages/Main"], function () {
 		// Arrangements
 		Given.iStartMyUIComponent({
 			componentConfig: {
-				name: "com.vysk"
+				name: "com.vysk.tree"
 			}
 		});
 

@@ -2,7 +2,7 @@
 	"_version": "1.12.0",
 
 	"sap.app": {
-		"id": "com.vysk",
+		"id": "com.vysk.tree",
 		"type": "application",
 		"i18n": "i18n/i18n.properties",
 		"title": "{{appTitle}}",
@@ -24,7 +24,7 @@
 
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "com.vysk.view.App",
+			"viewName": "com.vysk.tree.view.App",
 			"type": "XML",
 			"async": true,
 			"id": "app"
@@ -49,7 +49,7 @@
 			"i18n": {
 				"type": "sap.ui.model.resource.ResourceModel",
 				"settings": {
-					"bundleName": "com.vysk.i18n.i18n"
+					"bundleName": "com.vysk.tree.i18n.i18n"
 				}
 			}
 		},
@@ -58,7 +58,7 @@
 			"config": {
 				"routerClass": "sap.m.routing.Router",
 				"viewType": "XML",
-				"viewPath": "com.vysk.view",
+				"viewPath": "com.vysk.tree.view",
 				"controlId": "app",
 				"controlAggregation": "pages",
 				"async": true

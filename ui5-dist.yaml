@@ -1,6 +1,6 @@
 specVersion: "3.0"
 metadata:
-  name: com.vysk
+  name: com.vysk.tree
 type: application
 resources:
   configuration:
